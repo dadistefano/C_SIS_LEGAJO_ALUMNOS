@@ -1,0 +1,130 @@
+# depslib dependency file v1.0
+1573534039 source:c:\users\dieguito\documents\tsp - 2do cuatrimestre\laboratorio 2\tp2\tp2_integrador v0.2 (funcionando)\bl\clsalumnobl.cpp
+	"clsAlumnoBL.h"
+
+1573534039 c:\users\dieguito\documents\tsp - 2do cuatrimestre\laboratorio 2\tp2\tp2_integrador v0.2 (funcionando)\bl\clsalumnobl.h
+	"../DTO/clsAlumnoDTO.h"
+	"../DAO/clsAlumnoDAO.h"
+
+1573511408 c:\users\dieguito\documents\tsp - 2do cuatrimestre\laboratorio 2\tp2\tp2_integrador v0.2 (funcionando)\dto\clsalumnodto.h
+	<cstring>
+
+1573534039 c:\users\dieguito\documents\tsp - 2do cuatrimestre\laboratorio 2\tp2\tp2_integrador v0.2 (funcionando)\dao\clsalumnodao.h
+	<cstdio>
+	"../DTO/clsAlumnoDTO.h"
+	"../Helpers/clsCadenas.h"
+
+1573539250 c:\users\dieguito\documents\tsp - 2do cuatrimestre\laboratorio 2\tp2\tp2_integrador v0.2 (funcionando)\helpers\clscadenas.h
+	<cstring>
+
+1573614486 source:c:\users\dieguito\documents\tsp - 2do cuatrimestre\laboratorio 2\tp2\tp2_integrador v0.2 (funcionando)\bl\clsmat_x_alumnobl.cpp
+	"clsMat_X_AlumnoBL.h"
+
+1573537646 c:\users\dieguito\documents\tsp - 2do cuatrimestre\laboratorio 2\tp2\tp2_integrador v0.2 (funcionando)\bl\clsmat_x_alumnobl.h
+	"../DTO/clsMat_X_AlumnoDTO.h"
+	"../DAO/clsMat_X_AlumnoDAO.h"
+
+1573345094 c:\users\dieguito\documents\tsp - 2do cuatrimestre\laboratorio 2\tp2\tp2_integrador v0.2 (funcionando)\dto\clsmat_x_alumnodto.h
+	<cstring>
+
+1573618007 c:\users\dieguito\documents\tsp - 2do cuatrimestre\laboratorio 2\tp2\tp2_integrador v0.2 (funcionando)\dao\clsmat_x_alumnodao.h
+	<cstdio>
+	"../DTO/clsMat_X_AlumnoDTO.h"
+
+1573533232 source:c:\users\dieguito\documents\tsp - 2do cuatrimestre\laboratorio 2\tp2\tp2_integrador v0.2 (funcionando)\bl\clsmateriabl.cpp
+	"clsMateriaBL.h"
+
+1573533232 c:\users\dieguito\documents\tsp - 2do cuatrimestre\laboratorio 2\tp2\tp2_integrador v0.2 (funcionando)\bl\clsmateriabl.h
+	"../DTO/clsMateriaDTO.h"
+	"../DAO/clsMateriaDAO.h"
+
+1573171548 c:\users\dieguito\documents\tsp - 2do cuatrimestre\laboratorio 2\tp2\tp2_integrador v0.2 (funcionando)\dto\clsmateriadto.h
+	<cstring>
+
+1573533232 c:\users\dieguito\documents\tsp - 2do cuatrimestre\laboratorio 2\tp2\tp2_integrador v0.2 (funcionando)\dao\clsmateriadao.h
+	<cstdio>
+	"../DTO/clsMateriaDTO.h"
+	"../Helpers/clsCadenas.h"
+
+1573534464 source:c:\users\dieguito\documents\tsp - 2do cuatrimestre\laboratorio 2\tp2\tp2_integrador v0.2 (funcionando)\dao\clsalumnodao.cpp
+	"clsAlumnoDAO.h"
+
+1573618007 source:c:\users\dieguito\documents\tsp - 2do cuatrimestre\laboratorio 2\tp2\tp2_integrador v0.2 (funcionando)\dao\clsmat_x_alumnodao.cpp
+	"clsMat_X_AlumnoDAO.h"
+
+1573537646 source:c:\users\dieguito\documents\tsp - 2do cuatrimestre\laboratorio 2\tp2\tp2_integrador v0.2 (funcionando)\dao\clsmateriadao.cpp
+	"clsMateriaDAO.h"
+
+1573512108 source:c:\users\dieguito\documents\tsp - 2do cuatrimestre\laboratorio 2\tp2\tp2_integrador v0.2 (funcionando)\dto\clsalumnodto.cpp
+	"clsAlumnoDTO.h"
+
+1573345080 source:c:\users\dieguito\documents\tsp - 2do cuatrimestre\laboratorio 2\tp2\tp2_integrador v0.2 (funcionando)\dto\clsmat_x_alumnodto.cpp
+	"clsMat_X_AlumnoDTO.h"
+
+1573172022 source:c:\users\dieguito\documents\tsp - 2do cuatrimestre\laboratorio 2\tp2\tp2_integrador v0.2 (funcionando)\dto\clsmateriadto.cpp
+	"clsMateriaDTO.h"
+
+1573539250 source:c:\users\dieguito\documents\tsp - 2do cuatrimestre\laboratorio 2\tp2\tp2_integrador v0.2 (funcionando)\helpers\clscadenas.cpp
+	"clsCadenas.h"
+
+1573629598 source:c:\users\dieguito\documents\tsp - 2do cuatrimestre\laboratorio 2\tp2\tp2_integrador v0.2 (funcionando)\helpers\clsvalidacion.cpp
+	"clsValidacion.h"
+
+1573629621 c:\users\dieguito\documents\tsp - 2do cuatrimestre\laboratorio 2\tp2\tp2_integrador v0.2 (funcionando)\helpers\clsvalidacion.h
+	<iostream>
+	<cstdio>
+	"../DTO/clsAlumnoDTO.h"
+	"../DTO/clsMateriaDTO.h"
+	"../DAO/clsMateriaDAO.h"
+	"../DAO/clsAlumnoDAO.h"
+	"../DTO/clsMat_X_AlumnoDTO.h"
+	"../DAO/clsMat_X_AlumnoDAO.h"
+
+1573629368 source:c:\users\dieguito\documents\tsp - 2do cuatrimestre\laboratorio 2\tp2\tp2_integrador v0.2 (funcionando)\main.cpp
+	<iostream>
+	"View/clsMainView.h"
+
+1573629598 c:\users\dieguito\documents\tsp - 2do cuatrimestre\laboratorio 2\tp2\tp2_integrador v0.2 (funcionando)\view\clsmainview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"clsMateriaView.h"
+	"clsAlumnoView.h"
+	"clsMat_X_AlumnoView.h"
+
+1573533232 c:\users\dieguito\documents\tsp - 2do cuatrimestre\laboratorio 2\tp2\tp2_integrador v0.2 (funcionando)\view\clsmateriaview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsMateriaDTO.h"
+	"../BL/clsMateriaBL.h"
+	"../Helpers/clsValidacion.h"
+
+1573534039 c:\users\dieguito\documents\tsp - 2do cuatrimestre\laboratorio 2\tp2\tp2_integrador v0.2 (funcionando)\view\clsalumnoview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsAlumnoDTO.h"
+	"../BL/clsAlumnoBL.h"
+	"../Helpers/clsValidacion.h"
+
+1573539034 c:\users\dieguito\documents\tsp - 2do cuatrimestre\laboratorio 2\tp2\tp2_integrador v0.2 (funcionando)\view\clsmat_x_alumnoview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsMat_X_AlumnoDTO.h"
+	"../BL/clsMat_X_AlumnoBL.h"
+	"../Helpers/clsValidacion.h"
+
+1573627874 source:c:\users\dieguito\documents\tsp - 2do cuatrimestre\laboratorio 2\tp2\tp2_integrador v0.2 (funcionando)\view\clsalumnoview.cpp
+	"clsAlumnoView.h"
+
+1573629598 source:c:\users\dieguito\documents\tsp - 2do cuatrimestre\laboratorio 2\tp2\tp2_integrador v0.2 (funcionando)\view\clsmainview.cpp
+	"clsMainView.h"
+
+1573628563 source:c:\users\dieguito\documents\tsp - 2do cuatrimestre\laboratorio 2\tp2\tp2_integrador v0.2 (funcionando)\view\clsmat_x_alumnoview.cpp
+	"clsMat_X_AlumnoView.h"
+
+1573620699 source:c:\users\dieguito\documents\tsp - 2do cuatrimestre\laboratorio 2\tp2\tp2_integrador v0.2 (funcionando)\view\clsmateriaview.cpp
+	"clsMateriaView.h"
+
